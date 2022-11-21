@@ -1,0 +1,12 @@
+# Directories
+logs/
+__pycache__/
+.vscode/
+env/
+media/
+
+# extensions
+*.log
+*.sqlite3
+*.pyc
+*.bak
